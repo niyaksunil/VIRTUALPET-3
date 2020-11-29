@@ -17,7 +17,7 @@ function preload(){
 //loaded images here
   dogImg = loadImage("images/Dog.png");
   happyDogImg = loadImage("images/happy dog.png");
-  milkImg = loadImage("images/Milk.png");
+  milkImg = loadImage("images/milk.png");
   bedRoomImg = loadImage("images/Bed Room.png");
   gardenImg = loadImage("images/Garden.png");
   washroomImg = loadImage("images/Wash Room.png");
@@ -148,5 +148,4 @@ function gameState(state){
     gameState : state
   })
 
-  
 }
